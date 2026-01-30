@@ -21,7 +21,7 @@ export async function generateMetadata(props: {
 			type: 'article',
 			url: url,
 			publishedTime: metadata.publishedAt,
-			authors: ['Dale Larroder'],
+			authors: ['Icelinea'],
 			images: [
 				{
 					url: ogImage,
