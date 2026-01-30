@@ -22,7 +22,7 @@ export default function Hero() {
 					<div className='absolute top-[20%] md:top-[40%] max-w-5xl flex-col space-y-4 justify-center px-8 md:px-24 lg:ml-14'>
 						<h1 className='text-2xl font-medium md:mr-4 md:text-4xl'>
 							Welcome to my{' '}
-							<span className='font-bold'>personal website — </span>.
+							<span className='font-bold'>personal website</span>.
 						</h1>
 						<section className='relative z-10'>
 							<p className='text-base text-justify'>
@@ -34,7 +34,7 @@ export default function Hero() {
 								<p>More about me: </p>
 								<div className='flex -ml-2'>
 									<Link
-										href='https://www.linkedin.com/in/dale-larroder/'
+										href='https://www.linkedin.com/'
 										target='_blank'
 										rel='noreferrer'
 										aria-label='linkedin'
@@ -43,7 +43,7 @@ export default function Hero() {
 										<LinkedinIcon className='h-9 w-9' />
 									</Link>
 									<Link
-										href='https://github.com/dlarroder'
+										href='https://github.com/Icelinea'
 										target='_blank'
 										rel='noreferrer'
 										aria-label='github'
@@ -52,7 +52,7 @@ export default function Hero() {
 										<GithubIcon className='h-9 w-9' />
 									</Link>
 									<Link
-										href='https://x.com/dalelarroder'
+										href='https://x.com/'
 										target='_blank'
 										rel='noreferrer'
 										aria-label='twitter'
@@ -61,7 +61,7 @@ export default function Hero() {
 										<XIcon className='h-9 w-9' />
 									</Link>
 									<Link
-										href='mailto:hi@dalelarroder.com'
+										href='iceline2002@qq.com'
 										aria-label='email'
 										rel='noreferrer'
 										data-skip-splash-cursor
@@ -76,9 +76,9 @@ export default function Hero() {
 								data-skip-splash-cursor
 							>
 								<Link href='/projects'>/projects</Link>
-								<Link href='/thoughts'>/thoughts</Link>
+								<Link href='/thoughts'>/insights</Link>
 								<Link href='/uses'>/uses</Link>
-								<Link href='/stats'>/stats</Link>
+								<Link href='/stats'>/ignore</Link>
 							</div>
 						</section>
 					</div>
