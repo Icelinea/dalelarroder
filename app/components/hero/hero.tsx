@@ -22,28 +22,11 @@ export default function Hero() {
 					<div className='absolute top-[20%] md:top-[40%] max-w-5xl flex-col space-y-4 justify-center px-8 md:px-24 lg:ml-14'>
 						<h1 className='text-2xl font-medium md:mr-4 md:text-4xl'>
 							Welcome to my{' '}
-							<span className='font-bold'>personal portfolio — </span> or, as I
-							like to call it, my{' '}
-							<span className='italic border-b'>playground</span> on the web.
+							<span className='font-bold'>personal website — </span>.
 						</h1>
 						<section className='relative z-10'>
 							<p className='text-base text-justify'>
-								I&apos;m Dale Larroder — a Software Engineer and forever a
-								student of the craft. I love building things for the web and am
-								always on the lookout for new challenges and opportunities to
-								learn. I&apos;m passionate about creating beautiful and
-								functional user experiences. Right now, I&apos;m building cool
-								things at{' '}
-								<a
-									href='https://www.aphex.co/'
-									className='underline-magical'
-									target='_blank'
-									rel='noreferrer'
-									data-skip-splash-cursor
-								>
-									Aphex
-								</a>
-								.
+								I&apos;m Icelinea. Thanks for walking through my life.
 							</p>
 						</section>
 						<section className='relative z-10 flex space-x-4 items-center text-sm'>
