@@ -77,7 +77,7 @@ export default function Hero() {
 							>
 								<Link href='/projects'>/projects</Link>
 								<Link href='/thoughts'>/blogs</Link>
-								<Link href='/uses'>/uses</Link>
+								{/* <Link href='/uses'>/uses</Link> */}
 								<Link href='/stats'>/ignore</Link>
 							</div>
 						</section>
