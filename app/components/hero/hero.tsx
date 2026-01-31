@@ -26,7 +26,7 @@ export default function Hero() {
 						</h1>
 						<section className='relative z-10'>
 							<p className='text-base text-justify'>
-								I&apos;m Icelinea. Thanks for walking through my life.
+								I&apos;m Icelinea. Thanks for passing by my life.
 							</p>
 						</section>
 						<section className='relative z-10 flex space-x-4 items-center text-sm'>
