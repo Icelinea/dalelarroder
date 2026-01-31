@@ -6,11 +6,11 @@ import Works from './components/work/works';
 
 export default function Home() {
 	return (
-		<ScrollProvider>
+		// <ScrollProvider>
 			<Hero />
-			<Intro />
-			<Works />
-			<Contact />
-		</ScrollProvider>
+			// <Intro />
+			// <Works />
+			// <Contact />/
+		// </ScrollProvider>
 	);
 }

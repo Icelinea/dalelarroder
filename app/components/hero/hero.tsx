@@ -76,7 +76,7 @@ export default function Hero() {
 								data-skip-splash-cursor
 							>
 								<Link href='/projects'>/projects</Link>
-								<Link href='/thoughts'>/insights</Link>
+								<Link href='/thoughts'>/blogs</Link>
 								<Link href='/uses'>/uses</Link>
 								<Link href='/stats'>/ignore</Link>
 							</div>
