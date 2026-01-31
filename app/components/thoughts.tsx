@@ -28,6 +28,7 @@ export function Thoughts({ posts }: { posts: BlogPost[] }) {
 								<div className='mx-1 flex flex-1 border-b border-primary-500' />
 								<time className='w-max whitespace-nowrap text-sm pl-2 text-gray-500 dark:text-gray-400'>
 									{format(new Date(post.metadata.publishedAt), 'MMMM dd, yyyy')}
+									{format(new Date(post.metadata.recentUpdate), 'MMMM dd, yyyy')}
 								</time>
 							</div>
 							<p className='text-gray-500 dark:text-gray-400'>

@@ -57,7 +57,8 @@ export default async function Blog(props: {
 				<PageTitle>{metadata.title}</PageTitle>
 				<div className='flex justify-between items-center mt-2 text-sm'>
 					<p className='text-sm text-neutral-600 dark:text-neutral-400'>
-						{formatDate(metadata.publishedAt)}
+						Published At: {formatDate(metadata.publishedAt)}
+						Recent Update: {formatDate(metadata.recentUpdate, true)}
 					</p>
 				</div>
 			</section>

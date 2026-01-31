@@ -13,6 +13,7 @@ export interface BlogPost {
 type Metadata = {
 	title: string;
 	publishedAt: string;
+	recentUpdate: string;
 	summary: string;
 	draft: boolean;
 	image?: string;
